@@ -1,4 +1,4 @@
-![logo](https://github.com/ahnafsayem/ahnafsayem/blob/main/Personal%20Banner.png)
+![logo](https://github.com/ahnafsayem/ahnafsayem/blob/main/Ahnaf%20Sayem%20Banner.png)
 ### Hi there! Welcome!
 
 <!--
