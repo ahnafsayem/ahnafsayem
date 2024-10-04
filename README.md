@@ -1,4 +1,4 @@
-![logo](https://github.com/ahnafsayem/ahnafsayem/blob/main/Ahnaf%20banner%20final.png)
+![Ahnaf Banner](https://github.com/user-attachments/assets/6f1ae6a5-9463-4876-81c6-049b089d1b39)
 
 <!--
 **ahnafsayem/ahnafsayem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
