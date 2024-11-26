@@ -1,8 +1,8 @@
 <h1 align="center">Hello! Ahnaf Sayem here!</h1>
-<h3 align="center">Working on bridging the gap between data and insights.</h3>
+<h3 align="center">Aspiring Data Scientist | Data Analyst | ML Enthusiast </h3>
 
 
-![Ahnaf Sayem Banner (2)](https://github.com/user-attachments/assets/c3c76c98-5a50-437a-97cb-2b3ce4ca725e)
+![Ahnaf Sayem Banner (3)](https://github.com/user-attachments/assets/b5c66548-7e44-48d4-84bf-c293c7a70458)
 
 
 
