@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | Data Analyst | ML Enthusiast</h3>
 
 
-![Ahnaf Sayem Banner (5)](https://github.com/user-attachments/assets/e0fc5c74-6a85-49f7-aea7-68d34a461aad)
+![Ahnaf Sayem Banner (6)](https://github.com/user-attachments/assets/9149a1b9-ee57-44b2-bd0c-55174155c1e2)
 
 
 
